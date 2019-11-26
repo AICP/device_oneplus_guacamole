@@ -1,0 +1,18 @@
+# Fod
+94300 http://gerrit.aicp-rom.com frameworks/base
+94315 http://gerrit.aicp-rom.com frameworks/base
+92500 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+92501 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+94298 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+94299 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+92499 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+94297 http://gerrit.aicp-rom.com device/aicp/sepolicy
+93100 http://gerrit.aicp-rom.com vendor/aicp
+# Guacamole device commits
+96291 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+96292 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+95814 http://gerrit.aicp-rom.com framewrosk/av
+96296 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+96293 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+96294 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
+96295 http://gerrit.aicp-rom.com hardware/gzosp/interfaces
