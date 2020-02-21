@@ -22,3 +22,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.display.guacamole.rc
+
+# Init
+PRODUCT_PACKAGES += \
+    libinit_guacamole

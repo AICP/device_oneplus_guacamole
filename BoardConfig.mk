@@ -9,8 +9,11 @@ BOARD_VENDOR := oneplus
 DEVICE_PATH := device/oneplus/guacamole
 PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
 
-# Assert
-TARGET_OTA_ASSERT_DEVICE := OnePlus7Pro
+# Assertation
+TARGET_OTA_ASSERT_DEVICE := guacamole,OnePlus7Pro,OnePlus7Pro_EEA
+TARGET_INIT_VENDOR_LIB := libinit_guacamole
+TARGET_RECOVERY_DEVICE_MODULES := libinit_guacamole
+#TARGET_PLATFORM_DEVICE_BASE := /devices/soc0/
 
 # Kernel
 TARGET_KERNEL_CONFIG := vendor/sm8150-perf_defconfig
