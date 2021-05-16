@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61346471_881a3571",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-05-16T12:15:08Z",
+      "side": 1,
+      "message": "Whatever Ali \u0026 doc decide...",
+      "revId": "729412fdf77bd25d6039dfae5d7cd5b7b711780b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
