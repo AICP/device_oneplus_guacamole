@@ -26,10 +26,6 @@
     <!-- String values for the min/max refreshrates supported on this device -->
     <string name="display_min_refresh_rate_low_label">60fps</string>
     <string name="display_min_refresh_rate_high_label">90fps</string>
-    <array name="config_displayMinRefreshRates">
-        <item>60</item>
-        <item>90</item>
-    </array>
 
     <!-- Whether device provides panel options -->
     <bool name="config_device_supports_panels">true</bool>
