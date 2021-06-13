@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10ba27b8_7ce75427",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-06-13T15:05:11Z",
+      "side": 1,
+      "message": "Oops, almost forgot that the refresh QS tile is gone now.",
+      "revId": "3e971d3aeb1a672115aaa1075037e3a8b90a4350",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
