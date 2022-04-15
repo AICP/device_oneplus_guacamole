@@ -43,12 +43,6 @@
     <dimen name="keyguard_affordance_width">42dp</dimen>
     <dimen name="keyguard_indication_margin_bottom">48dp</dimen>
 
-    <!-- Custom cutout overlay view sizes -->
-    <dimen name="config_customCutoutTopWidth">223.0px</dimen>
-    <dimen name="config_customCutoutTopHeight">223.0px</dimen>
-    <dimen name="config_customCutoutBottomWidth">223.0px</dimen>
-    <dimen name="config_customCutoutBottomHeight">223.0px</dimen>
-
     <!-- Margin on the left side of the carrier text on Keyguard -->
     <dimen name="keyguard_carrier_text_margin">95px</dimen>
 
