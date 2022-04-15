@@ -431,7 +431,7 @@
 
     <!-- Minimum screen brightness setting allowed by the power manager.
          The user is forbidden from setting the brightness below this level. -->
-    <integer name="config_screenBrightnessSettingMinimum">1</integer>
+    <integer name="config_screenBrightnessSettingMinimum">2</integer>
 
     <!-- Maximum screen brightness allowed by the power manager.
          The user is forbidden from setting the brightness above this level. -->
@@ -612,9 +612,4 @@
 
     <!-- How long it takes for the HW to start illuminating after the illuminati -->
     <integer name="config_udfps_illumination_transition_ms">10</integer>
-
-    <!-- OnePlus uses a proprietary vibrator hal to utilize the new powerful motor since the
-         OnePlus 7 Pro. This HAL expects a different format for the data instead of the usual (ms)
-         timing(the duration which the vibrator is expected to vibrate for). -->
-    <bool name="config_hasOnePlusHapticMotor">false</bool>
 </resources>
