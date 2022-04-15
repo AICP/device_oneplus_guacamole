@@ -23,10 +23,13 @@
     <dimen name="status_bar_padding_start">63px</dimen>
 
     <!-- the padding on the end of the statusbar -->
-    <dimen name="status_bar_padding_end">48px</dimen>
+    <dimen name="status_bar_padding_end">33px</dimen>
 
     <!-- Margin on the right side of the system icon group on Keyguard. -->
     <dimen name="system_icons_keyguard_padding_end">@dimen/status_bar_padding_end</dimen>
+
+        <!-- Margin on the left side of the carrier text on Keyguard -->
+        <dimen name="keyguard_carrier_text_margin">95px</dimen>
 
     <!-- TrustDrawable: Minimum inner radius of the breathing animation -->
     <dimen name="trust_circle_inner_radius_visible_min">18dp</dimen>
@@ -42,9 +45,6 @@
     <dimen name="keyguard_affordance_height">42dp</dimen>
     <dimen name="keyguard_affordance_width">42dp</dimen>
     <dimen name="keyguard_indication_margin_bottom">48dp</dimen>
-
-    <!-- Margin on the left side of the carrier text on Keyguard -->
-    <dimen name="keyguard_carrier_text_margin">95px</dimen>
 
     <!-- Location on the screen of the center of the physical power button. -->
     <dimen name="physical_power_button_center_screen_location_y">1250px</dimen>
