@@ -30,6 +30,12 @@
     -->
     <integer name="config_udfps_hbm_type">0</integer>
 
+   <!-- The radius of the enrollment progress bar, in dp -->
+   <integer name="config_udfpsEnrollProgressBar" translatable="false">115</integer>
+
+    <!-- Udfps vendor code -->
+    <integer name="config_udfps_vendor_code">0</integer>
+
     <!-- Allow devices to hide black gradient behind QS Panel -->
     <bool name="config_hideQSBlackGradient">true</bool>
 
@@ -49,9 +55,6 @@
 
    <!-- Respect drawable/rounded.xml intrinsic size for multiple radius corner path customization -->
    <bool name="config_roundedCornerMultipleRadius">true</bool>
-
-   <!-- The radius of the enrollment progress bar, in dp -->
-   <integer name="config_udfpsEnrollProgressBar" translatable="false">115</integer>
 
    <!-- Whether to clip notification contents with a rounded rectangle. Might be expensive on
         certain GPU's and thus can be turned off with only minimal visual impact. -->
