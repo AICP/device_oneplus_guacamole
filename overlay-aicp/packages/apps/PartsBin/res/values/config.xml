@@ -23,9 +23,15 @@
 
     <!-- Whether device supports switching the display refreshrate -->
     <bool name="config_device_supports_switch_refreshrate">true</bool>
-    <!-- String values for the min/max refreshrates supported on this device -->
-    <string name="display_min_refresh_rate_low_label">60fps</string>
-    <string name="display_min_refresh_rate_high_label">90fps</string>
+
+    <!-- Integer value of the minimal/base display refreshrate (usually 60) -->
+    <integer name="BaseRefresh">60</integer>
+
+    <!-- Integer value of the maximum/peak display refreshrate (e.g. 90) -->
+    <integer name="PeakRefresh">90</integer>
+
+    <!-- Whether device supports 5G networks -->
+    <bool name="config_device_supports_network5gswitch">false</bool>
 
     <!-- Whether device provides panel options -->
     <bool name="config_device_supports_panels">true</bool>
