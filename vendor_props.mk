@@ -20,4 +20,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.product.manufacturer.db=OP_PHONE \
     ro.vendor.product.device.db=OP_DEVICE \
     vendor.product.device=guacamole \
-    vendor.product.manufacturer=OnePlus
+    vendor.product.manufacturer=OnePlus \
+    vendor.usb.product_string=OnePlus7Pro
