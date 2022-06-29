@@ -82,7 +82,7 @@
     <string name="pathDCIModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_p3_mode</string>
 
     <!-- Path to devices DCDMode toggle file -->
-    <string name="pathDCDModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dimlayer_bl_en</string>
+    <!-- <string name="pathDCDModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dimlayer_bl_en</string> -->
 
     <!-- Path to devices WideMode toggle file -->
     <string name="pathWideModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_wide_color_mode</string>
@@ -120,7 +120,7 @@
     <!-- QS Tiles -->
 
     <!-- Show/hide the QS tile, if device supports DC Dimming or not -->
-    <bool name="enableDCDTile">true</bool>
+    <bool name="enableDCDTile">false</bool>
 
     <!-- Show/hide the QS tile, if device supports switching Displaymodes or not -->
     <bool name="enablePanelModeTile">true</bool>
