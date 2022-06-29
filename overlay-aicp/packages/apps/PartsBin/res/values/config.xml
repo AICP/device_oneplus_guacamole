@@ -99,6 +99,9 @@
     <!-- Path to devices FastCharge sysfs -->
     <string name="pathFastChargeToggle">/sys/kernel/fast_charge/force_fast_charge</string>
 
+    <!-- Path to devices touchpanel gamemode toggle file -->
+    <string name="pathGameModeToggle">/proc/touchpanel/game_switch_enable</string>
+
     <!-- Path to devices supported Offscreen Gesture -->
     <string name="pathGestureCircle">/proc/touchpanel/letter_o_enable</string>
     <string name="pathGestureDoubleSwipe">/proc/touchpanel/double_swipe_enable</string>
