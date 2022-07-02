@@ -48,10 +48,10 @@
     <string name="dolby_atmos_packagename">com.dolby.daxservice</string>
 
     <!-- Sound tuner package -->
-    <string name="sound_tuner_packagename">com.oneplus.sound.tuner</string>
+    <string name="sound_tuner_packagename">com.dolby.daxappui</string>
 
     <!-- Dolby atmos classname -->
-    <string name="dolby_atmos_classname">com.oneplus.sound.tuner.panoramic.DolbyPanoramicSoundActivity</string>
+    <string name="dolby_atmos_classname">com.dolby.daxappui.MainActivity</string>
 
     <!-- Paths -->
 
