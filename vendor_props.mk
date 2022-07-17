@@ -11,6 +11,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # build properties
 PRODUCT_PROPERTY_OVERRIDES += \
+    ro.product.cuptsm=ONEPLUS|ESE|01|02|80T \
     persist.sys.oem.region=OverSeas \
     persist.sys.oem_smooth=1 \
     ro.product.vendor.device=OnePlus7Pro \
