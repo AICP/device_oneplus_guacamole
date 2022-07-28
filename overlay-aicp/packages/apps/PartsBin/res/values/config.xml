@@ -18,6 +18,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Configs -->
 
+    <!-- Whether device supports disabling PartsBin Alert Slider -->
+    <bool name="config_device_has_alert_slider">true</bool>
+
     <!-- Whether device supports disabling hwkeys -->
     <bool name="config_device_has_hw_nav_buttons">false</bool>
 
