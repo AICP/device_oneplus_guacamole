@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from OnePlus7ProOxygen_21.P.44_GLO_0440_2205261920
+# All unpinned blobs below are extracted from OnePlus7ProOxygen_21.P.45_GLO_0450_2206171138
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
@@ -207,3 +207,8 @@ vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/sns_reg_config
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
+
+# Vibrator firmware
+vendor/firmware/notif_Ardour.bin
+vendor/firmware/notif_Chic.bin
+vendor/firmware/ring_McLarn.bin
