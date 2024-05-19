@@ -1,0 +1,3 @@
+# ADDITIONAL SYSTEM BUILD PROPERTIES
+ro.oplus.image.system_ext.brand=oneplus
+ro.oplus.image.system_ext.area=export
